@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "Broken laptop screen",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-08-04T02:15:38.325Z",
+      "id": 1
+    },
+    {
+      "message": "Eclipse takes an hour to let me start working",
+      "attention": true,
+      "tech": "Greg Turkington",
+      "date": "2021-08-04T02:15:52.889Z",
+      "id": 2
+    },
+    {
+      "message": "Whoops, I can just type here huh?",
+      "attention": false,
+      "tech": "Wayne Brady",
+      "date": "2021-08-04T02:16:05.964Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Turkington",
+      "id": 4
+    },
+    {
+      "firstName": "Wayne",
+      "lastName": "Brady",
+      "id": 5
+    }
+  ]
+}
